@@ -1,7 +1,8 @@
 Tic-Tac-Toe Game
 A classic two-player Tic-Tac-Toe game implemented in Java Swing. Players take turns marking cells with "X" and "O" on a 3x3 grid, with automatic win/draw detection and game reset functionality.
 
-Tic-Tac-Toe Game Preview (Replace with actual screenshot if available)
+Tic-Tac-Toe Game Preview 
+![image](https://github.com/user-attachments/assets/528f93d3-9d25-4c12-875a-a4a3c08f4fc6)
 
 Features
 Two-Player Mode: Alternate turns between "X" and "O".
